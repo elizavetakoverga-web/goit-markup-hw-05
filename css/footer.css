@@ -152,7 +152,7 @@
   border: 1px solid #ffffff;
   background-color: transparent !important;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   padding-left: 16px;
   border-radius: 4px;
@@ -163,7 +163,7 @@
 }
 
 .footer-input:focus {
-  border-color: #4d5ae5;
+  border-color: #31d0aa;
 }
 
 .footer-input::placeholder {
@@ -192,7 +192,7 @@
 
 .footer-btn:hover,
 .footer-btn:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 
 .footer-btn-icon {
